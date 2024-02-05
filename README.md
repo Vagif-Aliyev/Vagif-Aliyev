@@ -17,7 +17,6 @@
 
  
 **Putting Knowledge into Practice:**
- 
 
  I'm not just learning; I'm actively applying my data science skills in my current role to streamline processes and optimize workflows. This hands-on experience is solidifying my knowledge and providing valuable insights for future projects.
 
@@ -27,5 +26,16 @@
 LinkedIn: www.linkedin.com/in/vaqif-aliyev
 
 Email: vagif.aliyev.96@icloud.com
+___
+
+## Skills and Experience
+* Python (packages: pandas, numpy, sklearn, matplotlib, seaborn, plotly)
+* SQL
+* Tableau
+* Excel
+* Power Point
+* Hypothesis Testing
+* Machine Learning techniques
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vagif)](https://github.com/anuraghazra/github-readme-stats)
+
